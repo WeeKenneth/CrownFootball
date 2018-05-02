@@ -2,11 +2,8 @@
 
 [![style: styled-components](https://img.shields.io/badge/style-%F0%9F%92%85%20styled--components-orange.svg?colorB=daa357&colorA=db748e)](https://github.com/styled-components/styled-components)
 
-Premier League football app built using React Native. Contains Top Goal Scorers, Team Results, Fixtures, Latest News
+Crown Sports football app built using React Native. Contains Top Goal Scorers, Team Results, Fixtures, Latest News
 
-<div style style="display:flex;flex-direction:row;">
-  <img src="https://github.com/Pau1fitz/react-native-football/blob/master/appvideo.gif" alt="alt text" width="250">
-</div>
 
 
 ## Setup
@@ -21,11 +18,11 @@ Premier League football app built using React Native. Contains Top Goal Scorers,
 
 
 <div style style="display:flex;flex-direction:row;">
-  <img src="https://github.com/Pau1fitz/react-native-football/blob/master/home.png" alt="alt text" width="250">
-  <img src="https://github.com/Pau1fitz/react-native-football/blob/master/goals.png" alt="alt text" width="250">
-  <img src="https://github.com/Pau1fitz/react-native-football/blob/master/news.png" alt="alt text" width="250">
-  <img src="https://github.com/Pau1fitz/react-native-football/blob/master/results.png" alt="alt text" width="250">
-  <img src="https://github.com/Pau1fitz/react-native-football/blob/master/assists.png" alt="alt text" width="250">
+  <img src="https://github.com/WeeKenneth/CrownFootball/edit/master/home.png" alt="alt text" width="250">
+  <img src=https://github.com/WeeKenneth/CrownFootball/edit/master/goals.png" alt="alt text" width="250">
+  <img src="https://github.com/WeeKenneth/CrownFootball/edit/master/news.png" alt="alt text" width="250">
+  <img src="https://github.com/WeeKenneth/CrownFootball/edit/master/results.png" alt="alt text" width="250">
+  <img src="https://github.com/WeeKenneth/CrownFootball/edit/master/assists.png" alt="alt text" width="250">
 </div>
 
 
