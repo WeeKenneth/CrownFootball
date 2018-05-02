@@ -18,11 +18,11 @@ Crown Sports football app built using React Native. Contains Top Goal Scorers, T
 
 
 <div style style="display:flex;flex-direction:row;">
-  <img src="https://github.com/WeeKenneth/CrownFootball/edit/master/home.png" alt="alt text" width="250">
-  <img src=https://github.com/WeeKenneth/CrownFootball/edit/master/goals.png" alt="alt text" width="250">
-  <img src="https://github.com/WeeKenneth/CrownFootball/edit/master/news.png" alt="alt text" width="250">
-  <img src="https://github.com/WeeKenneth/CrownFootball/edit/master/results.png" alt="alt text" width="250">
-  <img src="https://github.com/WeeKenneth/CrownFootball/edit/master/assists.png" alt="alt text" width="250">
+  <img src="https://github.com/WeeKenneth/CrownFootball/blob/master/home.png" alt="alt text" width="250">
+  <img src=https://github.com/WeeKenneth/CrownFootball/blob/master/goals.png" alt="alt text" width="250">
+  <img src="https://github.com/WeeKenneth/CrownFootball/blob/master/news.png" alt="alt text" width="250">
+  <img src="https://github.com/WeeKenneth/CrownFootball/blob/master/results.png" alt="alt text" width="250">
+  <img src="https://github.com/WeeKenneth/CrownFootball/blob/master/assists.png" alt="alt text" width="250">
 </div>
 
 
